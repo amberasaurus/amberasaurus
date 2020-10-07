@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Amber
+#### A simple programmer living in the DC metro area
 
-<!--
-**Maowse/Maowse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working at: [ProQuest](https://www.proquest.com/), work-related github: [aphairpq2](https://github.com/aphairpq2)
+- 🌱 I’m currently learning: **React, Systems Design**
+- 🏆 Top skills: **Angular, Java, SQL**
+- 📈 Experience in: **AWS (EC2, SQS, Batch, RDS), ColdFusion, Solr, PostgreSQL, TypeScript**
+- 📫 How to reach me: **amphair@outlook.com**
+- 😄 Pronouns: **she/her**
+- 📕 Latest book read: **A Memory of Light (Wheel of Time)**
+- 🎮 Latest game played: **Horizon Zero Dawn**
+- 🏃 In my free time I like to: **exercise, read, hike, play games, and spend time with my husband and our four cats** 😻 😻 😻 😻
