@@ -4,7 +4,7 @@
 - 💻 I’m currently working at: [Oasis Digital Solutions Inc.](https://oasisdigital.com/)
 - 🌱 I’m currently learning: **React, Architecture, Ionic, Cypress**
 - 🏆 Top skills: **Angular, Java, SQL**
-- 📈 Experience in: **AWS (EC2, SQS, Batch, RDS), ColdFusion, Solr, PostgreSQL, TypeScript**
+- 📈 Experience in: **AWS (EC2, SQS, Batch, RDS), ColdFusion, Solr, PostgreSQL, TypeScript, MySQL, Jest**
 - 📫 How to reach me: **amphair@outlook.com**
 - 😄 Pronouns: **she/her**
 - 📕 Latest book read: **Dark Archives by Megan Rosenbloom**
