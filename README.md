@@ -2,7 +2,7 @@
 #### A simple programmer living in the DC metro area
 
 - 💻 I’m currently working at: [Oasis Digital Solutions Inc.](https://oasisdigital.com/)
-- 🌱 I’m currently learning: **React, Architecture, Bazel**
+- 🌱 I’m currently learning: **Swift, ChatGPT, Nx**
 - 🏆 Top skills: **Angular, Java, SQL**
 - 📈 Experience in: **AWS (EC2, SQS, Batch, RDS), ColdFusion, Solr, PostgreSQL, TypeScript, MySQL, Jest**
 - 📫 How to reach me: **amphair@outlook.com**
